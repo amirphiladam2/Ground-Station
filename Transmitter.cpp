@@ -1,3 +1,4 @@
+//This a transmitter code for your ground station,however there will be a need to adjust the codes based on the function you like to perform
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include <LoRa.h>
